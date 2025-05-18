@@ -84,7 +84,9 @@ SOL price and market cap
 
 ├── .env                      
 ├── .gitignore
+
 ├── assets/
+
 │   └── demo.png               
 ├── app.py                    
 ├── requirements.txt          
