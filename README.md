@@ -25,7 +25,7 @@ A Streamlit-based web app that fetches live cryptocurrency data (price, market m
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/ai-crypto-assistant.git
+   git clone https://github.com/aigerim1q/ai-crypto-assistant.git
    cd ai-crypto-assistant
    
 ## Create & activate a virtual environment
